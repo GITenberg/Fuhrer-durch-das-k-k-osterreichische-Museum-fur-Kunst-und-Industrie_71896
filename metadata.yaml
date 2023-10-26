@@ -1,0 +1,30 @@
+_repo: Fuhrer-durch-das-k-k-osterreichische-Museum-fur-Kunst-und-Industrie_71896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-10-17'
+identifiers:
+  gutenberg: '71896'
+language: de
+pgterms:marc905: 20211031090653author
+pgterms:marc906: '1914'
+pgterms:marc907: at
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aWien :$bVerlag des Museums, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Führer durch das k. k. österreichische Museum für Kunst und Industrie
+url: http://www.gutenberg.org/ebooks/71896
